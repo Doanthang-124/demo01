@@ -1,6 +1,0 @@
-doan van thang
-<<<<<<< HEAD
-to thanh nam
-=======
-to thanh nam
->>>>>>> parent of e926f43... Revert "jgh"
